@@ -114,7 +114,7 @@ This project is part of the ST4056CEM Introduction to Web Development and Databa
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [Murari Jha]([https://github.com/y](https://github.com/Murari-Jha230340))
 
 ## License
 
