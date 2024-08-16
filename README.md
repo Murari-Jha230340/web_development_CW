@@ -64,7 +64,7 @@ This project is part of the ST4056CEM Introduction to Web Development and Databa
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/candy-shop.git
+    git clone https://github.com/Murari-Jha230340/web_development_CW
     ```
     Alternatively, download the project as a ZIP file and extract it.
 
